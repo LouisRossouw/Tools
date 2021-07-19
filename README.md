@@ -1,4 +1,3 @@
-![abd_send]
 
 # Tools
 
@@ -18,8 +17,5 @@ Windows:
                 basic GUI with not much functionality, you can choose the file, and change the IP adress and path to send
                 the Android phone needs to be set to Developer mode and it must have connect once via USB to the PC for this to work
                 
-<img src="https://user-images.githubusercontent.com/80905013/126215969-e46f6d9d-3377-4e53-a513-6faca0bc7487.gif">
+<img src="https://user-images.githubusercontent.com/80905013/126216314-948ea435-7c53-472a-9fb7-3178709d381c.JPG>
 
-
-
-                
