@@ -1,7 +1,6 @@
 import os
 import tkinter as tk
 from tkinter import Canvas, Label, filedialog
-from time import sleep
 
 
 def file_select():
