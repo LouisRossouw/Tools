@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 main_dir_name: DesktopSort
 main_dir_path: C:\Users\Louis\Desktop
@@ -54,53 +53,3 @@ directories: {
                   ],
               }
 
-=======
-
-main_dir_name: DesktopSort
-main_dir_path: C:\Users\Louis\Desktop
-unsorted_dir_name: Dump
-
-Sort_Desktop: True
-sort_Downloads: True
-
-directories: {
-            Movies: [
-                      .mp4,
-                      .mov,
-                      .avi,
-                      ],
-
-            Document: [
-                    .pdf,
-                    .txt,
-                    ],
-
-            Images: [
-                    .JPG,
-                    .jpg,
-                    .png,
-                    ],
-
-            Music: [
-                   .mp3,
-                  ],
-            programs: [
-                  .exe,
-                  .msi
-                  ],
-
-            Houdini: [
-                  .hip,
-                  .hipnc,            
-                  ],
-            Blender: [
-                  .blend,
-            ],
-
-            Zip_Files: [
-                  .zip,
-                  .rar,
-                  ],
-              }
-
->>>>>>> 1e995582d0458346844310bb35c429e0c3953e72
