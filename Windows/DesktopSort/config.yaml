@@ -1,0 +1,55 @@
+
+main_dir_name: DesktopSort
+main_dir_path: C:\Users\Louis\Desktop
+unsorted_dir_name: Dump
+Sort_Desktop: True
+
+downloads_dir_name: DownloadsSort
+downloads_dir_path: C:\Users\Louis\Downloads
+unsorted_download_dir_name: Dump
+sort_Downloads: True
+
+directories: {
+            Movies: [
+                      .mp4,
+                      .mov,
+                      .avi,
+                      ],
+
+            Document: [
+                    .pdf,
+                    .txt,
+                    ],
+
+            gify: [
+                    .gif,
+                    ],
+
+            Images: [
+                    .JPG,
+                    .jpg,
+                    .png,
+                    ],
+
+            Music: [
+                   .mp3,
+                  ],
+            programs: [
+                  .exe,
+                  .msi
+                  ],
+
+            Houdini: [
+                  .hip,
+                  .hipnc,            
+                  ],
+            Blender: [
+                  .blend,
+            ],
+
+            Zip_Files: [
+                  .zip,
+                  .rar,
+                  ],
+              }
+
