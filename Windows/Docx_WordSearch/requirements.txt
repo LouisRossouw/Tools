@@ -1,0 +1,6 @@
+python-docx==0.8.11
+pywin32==300
+pywin32-ctypes==0.2.0
+winshell==0.6
+
+
