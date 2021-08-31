@@ -3,7 +3,7 @@ import shutil
 from datetime import date
 from Scripts.utils import compress_clip, categorize
 
-# Ta this tool copies all the files from DJI flash, into a new directory on the 
+# This tool copies all the files from DJI flash, into a new directory on the 
 # Desktop and then converts all the videos into a lowres version with the 
 # same naming, this helps to speed up editing with after affects
 
