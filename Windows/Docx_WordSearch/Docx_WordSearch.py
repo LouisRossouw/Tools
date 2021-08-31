@@ -10,8 +10,6 @@ quickmp4_path_directory = os.path.dirname(os.path.abspath(__file__))
 docReturn_dir = quickmp4_path_directory + '\\DocReturn'
 filez = os.listdir(quickmp4_path_directory)
 
-
-
 def move_file(docReturn_dir):
     """ creates dir based ond moves files """
 
@@ -29,7 +27,6 @@ def shortcut(name, destination_dir, filename):
     shortcut.Targetpath = filename
     shortcut.WorkingDirectory = destination_dir
     shortcut.save() 
-
 
 
 # user input loop
@@ -109,7 +106,7 @@ for f in paths_list:
                             report_notFound.append(word)
 
         except:
-            print(f'Error: cant read the {name}{source_file_ext} -  it needs to be 2007 - 2019 word docx document, dur ')               
+            print(f'Error: cant read the {name}{source_file_ext} -  it needs to be 2007 - 2019 word docx document, dur ')   
     else:
         pass
 
