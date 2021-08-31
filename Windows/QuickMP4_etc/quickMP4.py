@@ -1,6 +1,6 @@
 import os
 
-# This tool you copy and paste into a directory and it will comvert all available 
+# This tool you copy and paste into a directory and it will convert all available 
 # videos in the directory to the desired resolution.
 # Need ffmpeg installed in path env to work
 
